@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Vaultix
+# Vaultix
 
 ### The Complete Software Licensing & Customer Management Platform
 
@@ -26,22 +26,22 @@ Stop juggling a third-party licensing service, a separate auth system, generic f
 
 ---
 
-## ✨ Core Features
+## Core Features
 
-| | Feature | Description |
-|---|---|---|
-| 🔑 | **License Key Management** | Generate cryptographically secure keys with custom prefixes (`YOURAPP-XXXX-XXXX-XXXX-XXXX`). You control generation, validation, and revocation. |
-| 🖥️ | **HWID Binding** | Lock licenses to specific machines to stop piracy and key sharing. Configurable reset limits keep legitimate upgrades smooth. |
-| 🔐 | **Flexible Authentication** | Choose key-based auth (no passwords) or username/password accounts, per app. Both support persistent auto-login tokens. |
-| 📦 | **Subscription Management** | Create, pause/resume, extend, and bulk-edit subscriptions. Lifetime licenses and download tracking included. |
-| 📁 | **Secure File Distribution** | Upload encrypted files or whole folders with SHA256 verification, version control, and download analytics. |
-| 💬 | **Discord Integration** | Built-in ticket system with round-robin assignment, staff on-call status, and live subscription tools right inside Discord. |
-| 👥 | **Team & Permissions** | Granular, per-product and app-wide role-based access control with full audit logging. |
-| 🛡️ | **Session Security** | Track sessions, IPs, and user agents. Instant revocation, 7-day auto-login, and TOTP / email-code 2FA. |
+| Feature | Description |
+|---|---|
+| **License Key Management** | Generate cryptographically secure keys with custom prefixes (`YOURAPP-XXXX-XXXX-XXXX-XXXX`). You control generation, validation, and revocation. |
+| **HWID Binding** | Lock licenses to specific machines to stop piracy and key sharing. Configurable reset limits keep legitimate upgrades smooth. |
+| **Flexible Authentication** | Choose key-based auth (no passwords) or username/password accounts, per app. Both support persistent auto-login tokens. |
+| **Subscription Management** | Create, pause/resume, extend, and bulk-edit subscriptions. Lifetime licenses and download tracking included. |
+| **Secure File Distribution** | Upload encrypted files or whole folders with SHA256 verification, version control, and download analytics. |
+| **Discord Integration** | Built-in ticket system with round-robin assignment, staff on-call status, and live subscription tools right inside Discord. |
+| **Team & Permissions** | Granular, per-product and app-wide role-based access control with full audit logging. |
+| **Session Security** | Track sessions, IPs, and user agents. Instant revocation, 7-day auto-login, and TOTP / email-code 2FA. |
 
 ---
 
-## 🔒 Security First
+## Security First
 
 - **AES-256-GCM encryption** with PBKDF2 key derivation for all file transfers and sensitive data
 - **HWID binding** for anti-piracy protection
@@ -52,7 +52,7 @@ Stop juggling a third-party licensing service, a separate auth system, generic f
 
 ---
 
-## 🎯 Who It's For
+## Who It's For
 
 - **Desktop App Developers** — ship Windows, macOS, and Linux apps with professional licensing built in
 - **Game Developers** — secure launchers, anti-cheat HWID binding, automatic updates, and Discord player support
@@ -61,16 +61,16 @@ Stop juggling a third-party licensing service, a separate auth system, generic f
 
 ---
 
-## 🚀 Quick Start (SDK)
+## Quick Start (SDK)
 
-The **Vaultix SDK** is available for multiple languages, so you can integrate in minutes.
+The **Vaultix SDK** is available for multiple languages, so you can integrate in minutes.öö
 
 | Language | Status | Package Manager |
 |---|---|---|
-| C++ | ✅ Stable | CMake |
-| C# | ✅ Stable | NuGet |
-| Python | ✅ Stable | pip |
-| Java | ✅ Stable | Maven |
+| C++ | Stable | CMake |
+| C# | Stable | NuGet |
+| Python | Stable | pip |
+| Java | Stable | Maven |
 
 ```python
 from vaultix import VaultixClient
@@ -100,7 +100,7 @@ if (await client.AuthenticateWithUsernameAsync("username", "password"))
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend:** React 19 · TailwindCSS · Radix UI
 **Backend:** FastAPI (Python) · Pydantic
@@ -109,15 +109,15 @@ if (await client.AuthenticateWithUsernameAsync("username", "password"))
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 | Purpose | Contact |
 |---|---|
-| 🌐 Website | [vaultix.cc](https://vaultix.cc) |
-| 🛟 Support | support@vaultix.cc |
-| 🔏 Privacy | privacy@vaultix.cc |
-| ⚖️ Legal | legal@vaultix.cc |
-| 🚫 Abuse | abuse@vaultix.cc |
+| Website | [vaultix.cc](https://vaultix.cc) |
+| Support | support@vaultix.cc |
+| Privacy | privacy@vaultix.cc |
+| Legal | legal@vaultix.cc |
+| Abuse | abuse@vaultix.cc |
 
 ---
 
