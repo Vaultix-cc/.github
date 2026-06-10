@@ -114,6 +114,7 @@ if (await client.AuthenticateWithUsernameAsync("username", "password"))
 | Purpose | Contact |
 |---|---|
 | Website | [vaultix.cc](https://vaultix.cc) |
+| Contact | contact@vaultix.cc |
 | Support | support@vaultix.cc |
 | Privacy | privacy@vaultix.cc |
 | Legal | legal@vaultix.cc |
